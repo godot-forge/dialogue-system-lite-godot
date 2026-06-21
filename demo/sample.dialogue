@@ -1,0 +1,14 @@
+# start
+Old Merchant: Ahh, a traveler! Welcome to my little shop.
+-> wares
+
+# wares
+Old Merchant: I've got potions, blades, and trinkets from far-off lands.
+-> pitch
+
+# pitch
+Old Merchant: Take your time. Everything here has a story.
+-> bye
+
+# bye
+Old Merchant: Safe travels, friend.

@@ -1,0 +1,14 @@
+; Engine configuration file.
+; Dialogue System Lite demo — Godot 4.3+
+
+config_version=5
+
+[application]
+
+config/name="Dialogue System Lite Demo"
+run/main_scene="res://demo/demo.tscn"
+config/features=PackedStringArray("4.4", "Forward Plus")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/dialogue_system/plugin.cfg")
